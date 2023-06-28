@@ -1,0 +1,22 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.7.7",
+    "aws-sdk": "^2.1393.0",
+    "axios": "^1.4.0",
+    "@grpc/grpc-js": "^1.8.15",
+    "protobufjs": "^7.2.3"
+  },
+  "devDependencies": {
+    "grpc-tools": "^1.12.4"
+  }
+}
